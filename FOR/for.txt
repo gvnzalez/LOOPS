@@ -1,0 +1,5 @@
+Declaración for
+Un ciclo for se repite hasta que una condición especificada se evalúe como false.
+Estructura: 
+for ([expresiónInicial]; [expresiónCondicional]; [expresiónDeActualización])
+  instrucción

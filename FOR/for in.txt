@@ -1,0 +1,5 @@
+Recorre las propiedades de un objeto
+
+for (key in object) {
+  // codigo para ejecutar
+}

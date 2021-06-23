@@ -1,0 +1,5 @@
+Recorre los valores de un objeto que se repite
+
+for (variable of iterable) {
+  // codigo 
+}
